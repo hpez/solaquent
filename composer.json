@@ -15,7 +15,10 @@
     "autoload": {
         "psr-0": {
             "hpez/Solaquent": "src/"
-        }
+        },
+        "classmap": [
+            "src/"
+        ]
     },
     "license": "Apache-2.0",
     "authors": [
