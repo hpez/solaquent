@@ -1,0 +1,28 @@
+{
+    "name": "hpez/solaquent",
+    "type": "library",
+    "description": "A driver translating eloquent queries to solr queries",
+    "keywords": ["solr", "solarium", "eloquent", "laravel"],
+    "homepage": "https://github.com/hpez/solaquent",
+    "require": {
+        "solarium/solarium": "^4.2",
+        "php": "^7.2",
+        "illuminate/database": "^5.8@dev"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^8.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "hpez/Solaquent": "src/"
+        }
+    },
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Hassan Pezeshk",
+            "email": "hpez58@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
