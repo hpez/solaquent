@@ -4,7 +4,6 @@ namespace hpez\Solaquent;
 
 require_once __DIR__ . '/../vendor/autoload.php';
 
-use Illuminate\Support\Facades\DB;
 use PHPUnit\Framework\TestCase;
 use Solarium\Client;
 use Illuminate\Database\Capsule\Manager as Capsule;
