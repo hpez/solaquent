@@ -1,4 +1,4 @@
-# Solaquent
+# Solaquent [![Build Status](https://travis-ci.org/hpez/Solaquent.svg?branch=master)](https://travis-ci.org/hpez/Solaquent)
 A driver translating Eloquent queries to Solarium queries and returns the result. For now, it's only supporting flat non-nested queries.
 
 ## Installation
