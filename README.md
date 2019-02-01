@@ -10,22 +10,23 @@ To get the Solr result you should call the `get` method which has optional input
 Here are the docs for [Solarium](https://solarium.readthedocs.io) and [Solr](http://lucene.apache.org/solr/guide/).
 
 ## Example
-```$query = DB::table('products')
-             ->where('a', 'a')
-             ->where('b', 'e')
-             ->orWhere('c', 'f');
+```
+$query = DB::table('products')
+         ->where('a', 'a')
+         ->where('b', 'e')
+         ->orWhere('c', 'f');
  
-         $solaquent = new Solaquent($query, [
-             'endpoint' => [
-                 'products' => [
-                     'host' => '127.0.0.1',
-                     'port' =>  '8983',
-                     'path' => '/solr/',
-                     'core' => 'colletion1'
-                 ]
-             ]
-         ],'products');
-         $result = $solaquent->get();
+ $solaquent = new Solaquent($query, [
+     'endpoint' => [
+         'products' => [
+             'host' => '127.0.0.1',
+             'port' =>  '8983',
+             'path' => '/solr/',
+             'core' => 'colletion1'
+         ]
+     ]
+ ],'products');
+ $result = $solaquent->get();
  ```
  
  ## Contribution
