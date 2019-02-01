@@ -1,5 +1,5 @@
 # Solaquent
-A driver translating Eloquent queries to Solarium queries and returns the result
+A driver translating Eloquent queries to Solarium queries and returns the result. For now, it's only supporting flat non-nested queries.
 
 ## Installation
 You can install the package using `composer require hpez/solaquent` or check out the [packagist page](https://packagist.org/packages/hpez/solaquent)
