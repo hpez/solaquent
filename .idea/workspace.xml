@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff7dd512-a487-4995-b51f-2d48dc17f046" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/SolaquentTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/SolaquentTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -50,11 +46,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SolaquentTest.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SolaquentTest.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tests/SolaquentTest.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
-              <caret line="99" column="43" selection-start-line="99" selection-start-column="43" selection-end-line="99" selection-end-column="43" />
+            <state relative-caret-position="675">
+              <caret line="45" selection-start-line="45" selection-end-line="45" />
               <folding>
                 <element signature="e#34#68#0#PHP" expanded="true" />
               </folding>
@@ -71,7 +67,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
@@ -88,11 +84,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/Solaquent.php" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/composer.json" />
         <option value="$PROJECT_DIR$/tests/SolaquentTest.php" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -187,20 +183,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549031193597</updated>
-      <workItem from="1549031194728" duration="9247000" />
+      <workItem from="1549031194728" duration="9331000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SolaquentTest - 2019.02.01 at 20h 39m 09s.xml">
-      <configuration name="SolaquentTest" configurationId="PHPUnitRunConfigurationType" />
-    </history-entry>
-    <history-entry file="SolaquentTest - 2019.02.01 at 20h 40m 28s.xml">
-      <configuration name="SolaquentTest" configurationId="PHPUnitRunConfigurationType" />
-    </history-entry>
-    <history-entry file="SolaquentTest - 2019.02.01 at 20h 41m 24s.xml">
-      <configuration name="SolaquentTest" configurationId="PHPUnitRunConfigurationType" />
-    </history-entry>
     <history-entry file="SolaquentTest - 2019.02.01 at 20h 41m 41s.xml">
       <configuration name="SolaquentTest" configurationId="PHPUnitRunConfigurationType" />
     </history-entry>
@@ -222,9 +209,18 @@
     <history-entry file="SolaquentTest - 2019.02.01 at 20h 45m 33s.xml">
       <configuration name="SolaquentTest" configurationId="PHPUnitRunConfigurationType" />
     </history-entry>
+    <history-entry file="SolaquentTest - 2019.02.01 at 20h 46m 00s.xml">
+      <configuration name="SolaquentTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="SolaquentTest - 2019.02.01 at 20h 46m 20s.xml">
+      <configuration name="SolaquentTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="SolaquentTest - 2019.02.01 at 20h 46m 30s.xml">
+      <configuration name="SolaquentTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9247000" />
+    <option name="totallyTimeSpent" value="9331000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
@@ -265,13 +261,6 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/packages.txt">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -316,11 +305,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tests/SolaquentTest.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="99" column="43" selection-start-line="99" selection-start-column="43" selection-end-line="99" selection-end-column="43" />
+        <state relative-caret-position="675">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
           <folding>
             <element signature="e#34#68#0#PHP" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
         </state>
       </provider>
     </entry>
