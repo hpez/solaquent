@@ -3,7 +3,7 @@ php:
   - '7.2'
 install: composer update
 before_script:
-  - curl -sSL https://raw.githubusercontent.com/hpez/travis-solr/master/travis-solr.sh | SOLR_VERSION=6.0.0 SOLR_COLLECTION=colletion1 SOLR_DOCS=custom_docs.json bash
+  - curl -sSL https://raw.githubusercontent.com/hpez/travis-solr/master/travis-solr.sh | SOLR_VERSION=6.0.0 SOLR_COLLECTION=colletion1 bash
 
 script:
   - $TRAVIS_BUILD_DIR/vendor/bin/phpunit $TRAVIS_BUILD_DIR/tests/
