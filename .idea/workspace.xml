@@ -53,7 +53,7 @@
         <entry file="file://$PROJECT_DIR$/travis.sh">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+              <caret line="5" column="88" lean-forward="true" selection-start-line="5" selection-start-column="88" selection-end-line="5" selection-end-column="88" />
             </state>
           </provider>
         </entry>
@@ -249,7 +249,7 @@
       <option name="presentableId" value="Default" />
       <updated>1549031193597</updated>
       <workItem from="1549031194728" duration="12038000" />
-      <workItem from="1549374099022" duration="623000" />
+      <workItem from="1549374099022" duration="1257000" />
     </task>
     <servers />
   </component>
@@ -286,7 +286,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15719000" />
+    <option name="totallyTimeSpent" value="16353000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
@@ -577,7 +577,7 @@
     <entry file="file://$PROJECT_DIR$/travis.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+          <caret line="5" column="88" lean-forward="true" selection-start-line="5" selection-start-column="88" selection-end-line="5" selection-end-column="88" />
         </state>
       </provider>
     </entry>
