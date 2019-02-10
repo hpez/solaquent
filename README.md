@@ -4,6 +4,9 @@ A driver translating Eloquent queries to Solarium queries and returns the result
 ## Installation
 You can install the package using `composer require hpez/solaquent` or check out the [packagist page](https://packagist.org/packages/hpez/solaquent)
 
+## For developers
+After doing a `composer install`, you can run the tests by `vendor/phpunit/phpunit/phpunit tests/`.
+
 ## Usage
 You can pass an instance of Eloquent query builder (`Illuminate\Database\Query\Builder`) to the constructor or add it using `setQuery` method. Also you can set solarium config array in both the constructor and the `get` method.
 To get the Solr result you should call the `get` method which has optional inputs `$eloquentQuery` and `$solariumEndpoint`.
